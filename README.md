@@ -1,4 +1,4 @@
 # hello-world
 just a repository!
-I like Python
-Feeling interested in it!
+I like to write code in Python.
+It's interesting!
